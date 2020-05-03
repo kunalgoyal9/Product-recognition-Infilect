@@ -43,6 +43,10 @@ I used two anchor boxes having aspect ratio of ```0.5``` and ```0.33299```
 }
 ```
 
+## Requiremets:
+
+I used TF object detection api @ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+
 ## Q&A
 
 #### 1. What is the purpose of using multiple anchors per feature map cell?
