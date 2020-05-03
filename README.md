@@ -45,8 +45,7 @@ I used two anchor boxes having aspect ratio of ```0.5``` and ```0.33299```
 
 ## Q&A
 
-#### 1. What is the purpose of using multiple anchors per feature map
-cell?
+#### 1. What is the purpose of using multiple anchors per feature map cell?
 
 Anchor boxes are used to predefine the location of different objects of different sizes in the image. 
 
